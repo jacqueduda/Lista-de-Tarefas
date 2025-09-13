@@ -6,8 +6,12 @@
 🔹 Marcar como concluídas<br>
 🔹 Remover tarefas<br>
 🔹 Animação suave ao inserir <br>
-
-
+<h2>Imagens mostrando as funcionalidades da aplicação :</h2><br>
+ 
+<img src="https://github.com/jacqueduda/Lista-de-Tarefas/blob/main/assets/Foto1.jpeg?raw=true"><br>
+<img src="https://github.com/jacqueduda/Lista-de-Tarefas/blob/main/assets/Foto2.jpeg?raw=true"><br>
+<img src="https://github.com/jacqueduda/Lista-de-Tarefas/blob/main/assets/Foto3.jpeg?raw=true"> <br>
+<img src="https://github.com/jacqueduda/Lista-de-Tarefas/blob/main/assets/Foto4.jpeg?raw=true">
 
 
 
